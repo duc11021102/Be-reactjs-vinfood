@@ -1,0 +1,30 @@
+{
+  "events": [
+    {
+      "title": "test 4",
+      "image": "https://cdn.oneesports.gg/cdn-data/2022/12/Valorant_VCT_Masters_Tokyo.jpg",
+      "date": "2023-06-15",
+      "description": "123456789",
+      "id": "247117a7-9ab9-40b9-93d6-032caf038f0c"
+    },
+    {
+      "title": "A new event 3",
+      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+      "date": "2022-10-01",
+      "description": "Some awesome event!",
+      "id": "p3"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$12$AlHCdD3PyfJKJutbE329XeTOcTHNKIFxC0ALOZDzVqQtOJiwvRqUG",
+      "id": "e44f3c91-3de0-49f1-bc44-c885645a21bf"
+    },
+    {
+      "email": "kieungocanhduc@gmail.com",
+      "password": "$2a$12$vtfIzoqaWwbPK6X/nq3MHeKW4Q2md1UgmeJ/Ug62WaxoLEwYflpFu",
+      "id": "ced81930-831a-439d-92b2-c5531ee97b56"
+    }
+  ]
+}
